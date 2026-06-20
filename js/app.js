@@ -2,7 +2,7 @@
  * app.js — Ticket Sales Dashboard
  *
  * Este archivo contiene 10 errores intencionales para ejercicio de SonarQube.
- * 
+ 
  */
 
 'use strict';
